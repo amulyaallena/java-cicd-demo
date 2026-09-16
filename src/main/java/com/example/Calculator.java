@@ -30,5 +30,6 @@ public class Calculator {
         System.out.println("Subtraction: " + calculator.subtract(10, 5));
         System.out.println("Multiplication: " + calculator.multiply(10, 5));
         System.out.println("Division: " + calculator.divide(10, 4));
+        System.out.println("Version 1.1.0")
     }
 }
